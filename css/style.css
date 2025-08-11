@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.novbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 1200px;
+}
+.menus{
+    display: flex;
+    gap: 50px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.aa{
+    margin-right: 720px;
+
+}
+#hero{
+    background-color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+.vov{
+    width: 500px;
+    background-color: #FFFFFF;
+
+}
+#qq{
+    padding-bottom: 20px;
+    padding-top: 20px;
+     
+}
+.aaa{
+    width: 39px;
+    height: 40px;
+}
+.ww{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#id{
+    width: 200px;
+    height: 36px;
+    display: flex;
+
+
+}
+#add{
+    width: 200px;
+    height: 36px;
+    display: flex;
+
+}
+#azz{
+    width: 400px;
+    height: 36px;
+    display: flex;
+
+}
+#aax{
+    width: 20px;
+    height: 20px;
+    display: flex;
+
+}
+#aaq{
+    width: 20px;
+    height: 20px;
+    display: flex;
+
+}
+#xxz{
+    width: 400px;
+    height: 36px;
+    display: flex;
+
+}
+#ssa{
+    width: 400px;
+    height: 36px;
+    display: flex;
+
+}
+.qqw{
+    width: 400px;
+    height: 36px;
+
+margin-right: 50px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.container{
+    width: 500px;
+
+}
+.rort{
+    width: 500px;
+}
